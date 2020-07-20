@@ -1,11 +1,17 @@
 <component name="ProjectDictionaryState">
   <dictionary name="STOAL">
     <words>
+      <w>datapoint</w>
       <w>descr</w>
       <w>dfrac</w>
+      <w>gini</w>
+      <w>graphviz</w>
       <w>liblinear</w>
+      <w>overfitting</w>
       <w>pclass</w>
       <w>proba</w>
+      <w>underfit</w>
+      <w>underfitting</w>
     </words>
   </dictionary>
 </component>
