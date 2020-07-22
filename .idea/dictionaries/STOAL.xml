@@ -1,7 +1,10 @@
 <component name="ProjectDictionaryState">
   <dictionary name="STOAL">
     <words>
+      <w>coef</w>
       <w>datapoint</w>
+      <w>datapoints</w>
+      <w>datasets</w>
       <w>descr</w>
       <w>dfrac</w>
       <w>gini</w>
@@ -10,6 +13,7 @@
       <w>lbfgs</w>
       <w>liblinear</w>
       <w>matěj</w>
+      <w>mnist</w>
       <w>overfitting</w>
       <w>pclass</w>
       <w>proba</w>
